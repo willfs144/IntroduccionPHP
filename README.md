@@ -1,2 +1,2 @@
-# IntroduccionPHP
-Ejercicio Introduccion PHP
+# Introduccion PHP
+Ejercicio Introducción PHP
